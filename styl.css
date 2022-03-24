@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.nav1{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: #222f3e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav1 i{
+    margin: 0 5px;
+}
+.nav1 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    background: #e67e22;
+    cursor: pointer;
+}
+.nav1 a:hover{
+    font-weight: bolder;
+    color: black;
+}
+.logo img{
+    display:flex ;
+    width: 125px;
+    height: 70px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border-radius:5px ;
+
+}
+.education{
+    display:flex ;
+    width: 125px;
+    height: 70px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border-radius:5px ;
+    padding-left: 20px;
+}
+.nav2{
+    width: 100%;
+    height: 80px;
+    background: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 70px;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(rgba(0,0,0,0.7)80%,#e67e22), url('background image.jpg');
+    background-size: 100% 100%;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px; 
+    
+}
+.j:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.b:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.c:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.d:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.e:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.f:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.g:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.h:hover{
+    font-weight: bolder;
+    color:rgb(145, 48, 10);
+}
+.h-test{
+    max-width: 600px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;  
+}
+.h-test h1{
+    font-size: 3em;
+    font-family: 'Dancing Script', cursive;
+    white-space: nowrap;
+}
+.h-test span{
+    color: #e67e22;
+    font-family: 'Dancing Script', cursive;
+}
+.h-test p{
+    font-size: 20px;
+    margin: 40px 0;
+    line-height: 30px;
+}
+.h-test a{
+    text-decoration: none;
+    color: whitesmoke;
+    background: #e67e22;
+    padding: 10px 20px;
+    margin: 0 15px;
+    letter-spacing: 5px;
+}
+.h-test h2{
+    color:wheat;
+    padding:10px 20px;
+    margin: 15px 15px;
+}
+.h-test a:hover{
+    font-weight: bolder;
+    color: black;
+}
+
+
+
